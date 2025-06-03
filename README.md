@@ -1,1 +1,1 @@
-Open PointAnimator.exe to run the app.
+Open EAM.exe to run the app.
